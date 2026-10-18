@@ -19,11 +19,14 @@
 ## 📱 How to Install & Use (Release APK)
 
 1. **Download & Install**:
-   - Transfer the **SongHub Smart Link Remote APK** (`app-release.apk`) to your Android phone or tablet.
+   - Transfer the **SongHub Smart Link Remote APK** (`app-release.apk`, version 3.1) to your Android phone or tablet.
    - Tap the APK file to install. (If prompted, allow installation from unknown sources in your device security settings).
+   - Version 3.1 is signed separately from the 3.0 release. If 3.0 is already installed, uninstall it first, then install 3.1.
 2. **Connect to Your Karaoke System**:
    - Ensure your Android device and your SongHub / MegaOke PC server are connected to the same Wi-Fi or local network.
+   - On Android 17, tap **Allow** when the app asks for local network access. Android lists this permission as **Nearby devices**. The remote connects to the karaoke host over Wi-Fi, and Android 17 blocks that connection until the permission is granted.
    - Open the app, enter your host server IP address in the settings, and connect.
+   - If you previously denied the prompt, open **Settings > Apps > SongHub Smart Link > Permissions**, set **Nearby devices** to **Allow**, then connect again.
 3. **Enjoy Singing**:
    - Search for songs, add them to the queue, control the music, and sing along!
 
@@ -54,11 +57,14 @@ Note: On MegaOke PC and SongHub Legacy PC, here is the list of compatible versio
 ## 📱 Gabay sa Pag-install at Paggamit (Release APK)
 
 1. **Mag-install ng APK**:
-   - Ilagay ang **SongHub Smart Link Remote APK** (`app-release.apk`) sa iyong Android phone o tablet.
+   - Ilagay ang **SongHub Smart Link Remote APK** (`app-release.apk`, version 3.1) sa iyong Android phone o tablet.
    - I-tap ang file para i-install (I-allow ang installation mula sa unknown sources kung kinakailangan).
+   - Hiwalay ang pirma ng version 3.1 sa 3.0 release. Kung naka-install na ang 3.0, i-uninstall muna iyon bago i-install ang 3.1.
 2. **Kumonekta sa Karaoke System**:
    - Siguraduhing nakakonekta ang iyong Android device at ang iyong SongHub / MegaOke PC server sa iisang Wi-Fi o lokal na network.
+   - Sa Android 17, i-tap ang **Allow** kapag humingi ang app ng local network access. Makikita ito sa Android bilang **Nearby devices**. Hindi makakaabot ang remote sa karaoke host hangga't hindi ito pinapayagan.
    - Buksan ang app, i-type ang IP address ng host server sa settings, at kumonekta.
+   - Kung tinanggihan mo na ang prompt dati, pumunta sa **Settings > Apps > SongHub Smart Link > Permissions**, i-set ang **Nearby devices** sa **Allow**, tapos kumonekta ulit.
 3. **Magsaya sa Pag-kanta**:
    - Maghanap ng kanta, ilagay sa pila, kontrolin ang volume at pitch, at mag-enjoy sa videoke!
 
